@@ -30,11 +30,7 @@ ARであるので、視点を変えるため動き回らなければならない
 ![スクリーンショット (4)](https://user-images.githubusercontent.com/72644339/117900873-172d8680-b305-11eb-9103-42758febf3b2.png)
 地面を認識させ、ステージを描画する場所を設定する場面
 
-
-リザルト画面
-
-
-![スクリーンショット (5)](https://user-images.githubusercontent.com/72644339/117900878-1ac10d80-b305-11eb-9da6-dd75dc637c53.png)
+![スクリーンショット (6)](https://user-images.githubusercontent.com/72644339/117907683-2c5ce200-b312-11eb-9a94-771b8be35fc6.png)
 そのほかステージ
 
 # Demo
